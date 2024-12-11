@@ -1,1 +1,1 @@
-Pipeline for analysing splicing patterns associated with human ageing
+Pipeline for analysing longitudinal splicing patterns associated with human ageing
